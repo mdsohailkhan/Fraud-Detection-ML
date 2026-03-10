@@ -41,6 +41,7 @@ Dataset distribution:
 
 Legitimate Transactions : 284,315
 Fraudulent Transactions : 284,315
+
 ⚙️ Project Workflow
 1️⃣ Load Dataset
 2️⃣ Data Preparation
